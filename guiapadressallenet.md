@@ -18,7 +18,7 @@ Este curso tenemos dos opciones para iniciar sesión en la plataforma. Podemos i
 
 **Si nunca hemos entrado** en nuestra cuenta de Google @lasallemundonuevo.es, **primero debemos acceder** a [mail.google.com](https://mail.google.com) e iniciar sesión usando nuestro correo y contraseña que nos habrán enviado a través de una comunicación. Después de aceptar las condiciones y poner una contraseña definitiva, podremos usar el correo electrónico con normalidad.
 
-1 - Pulsamos en el botón "**Google**".
+1 - Pulsamos en el botón "**@lasallemundonuevo.es**".
 
 ![Acceso con Google](imagesPadresSallenet/01-1.PNG)
 
